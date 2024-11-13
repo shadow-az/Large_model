@@ -37,5 +37,8 @@ npm run dev
 
 出现以下界面即可：
 
+![cbf789612ccd53ad621f273e59deb3f](https://github.com/user-attachments/assets/45cbac34-2948-42b4-9735-75d77fa48e07)
+
+根据Local地址在浏览器中打开即可使用本地Llama。
 
 
