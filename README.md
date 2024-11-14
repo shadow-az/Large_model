@@ -28,7 +28,7 @@ ollama run llama3
 
 ## 部署WebUI
 
-打开**Ollama_WebUI**文件夹中**main**文件夹的终端，执行以下命令部署：
+打开**Ollama_WebUI**文件夹中**dev**文件夹的终端，执行以下命令部署：
 
 ```
 npm install
