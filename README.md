@@ -41,4 +41,19 @@ npm run dev
 
 根据Local地址在浏览器中打开即可使用本地Llama。
 
+如果出现以下包缺失：
+```
+▲ [WARNING] Cannot find base config file "./.svelte-kit/tsconfig.json" [tsconfig.json]
+
+    tsconfig.json:2:12:
+      2 │   "extends": "./.svelte-kit/tsconfig.json",
+        ╵              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+```
+
+执行以下代码进行下载即可：
+```
+npm install @sveltejs/kit
+```
+
+
 
